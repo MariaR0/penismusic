@@ -1,0 +1,55 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.arial { font-family: Arial; }
+
+.goldman { font-family: "Goldman", cursive;}
+
+.socials {
+  /*text-indent: 7em;*/
+}
+
+.centered {
+  text-align: center;
+}
+
+a {
+ color: white;
+ font-family: arial;
+}
+
+a:hover {
+ color: blue;
+}
+
+a:visited {
+ color: red
+}
+
+.border {
+  position: relative;
+  width: 60%;
+  border-style: solid;
+  border-width: thick;
+  border-color: white;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#Greenie {
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  height: auto;
+}
+
+.headerflex {
+  width: 100%;
+  display: flex;
+  padding: 4em;
+
+}
