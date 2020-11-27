@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-image: url(media/staranimated.gif);
     color: white;
 }
 
@@ -36,7 +36,7 @@ a:visited {
   border-color: white;
   margin-left: auto;
   margin-right: auto;
-
+  background-color: black;
 }
 
 #Greenie {
@@ -52,7 +52,18 @@ a:visited {
   width: 100%;
   display: flex;
   padding: 4em;
+}
 
+#Sonic {
+  position: absolute;
+  bottom: 0;
+  padding: 10px;
+  margin: 0;
+}
+
+#Best {
+  height: 35px;
+  width: auto;
 }
 
 #Sonic {
