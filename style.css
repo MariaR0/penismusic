@@ -21,11 +21,11 @@ a {
 }
 
 a:hover {
- color: blue;
+ color: white;
 }
 
 a:visited {
- color: red
+ color: white;
 }
 
 .border {
